@@ -5,7 +5,7 @@ The project contains automated test cases for:
 - search functionality
 - login and logout functionality
 - flight booking in a web-based flight reservation system
-- 
+
 ---
 
 ## Technologies Used
