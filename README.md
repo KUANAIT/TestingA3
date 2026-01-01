@@ -6,7 +6,6 @@ The project contains automated test cases for:
 - login and logout functionality
 - flight booking in a web-based flight reservation system
 
----
 
 ## Technologies Used
 - C#
@@ -16,7 +15,6 @@ The project contains automated test cases for:
 - ChromeDriver
 - WebDriverManager
 
----
 
 ## Test Coverage
 
@@ -30,7 +28,6 @@ The project contains automated test cases for:
 - Locators used:
     - CSS selectors
 
----
 
 ### 2. Login and Logout Test
 - Web application: **the-internet.herokuapp.com**
@@ -44,7 +41,6 @@ The project contains automated test cases for:
     - XPath
     - CSS selectors
 
----
 
 ### 3. Flight Booking Test with Title Checkpoint
 - Web application: **BlazeDemo**
@@ -60,7 +56,6 @@ The project contains automated test cases for:
     - CSS selectors
     - XPath
 
----
 
 ## Project Structure
 
