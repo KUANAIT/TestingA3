@@ -1,16 +1,11 @@
 # KuanyshAitzhanov_Assignment3 – Selenium WebDriver Practice
 
 ## Description
-This project is created as **Assignment 3 (Practice with Selenium WebDriver)**.  
-It demonstrates automated UI testing using **C#**, **Selenium WebDriver**, and **NUnit**.
-
 The project contains automated test cases for:
 - search functionality
 - login and logout functionality
 - flight booking in a web-based flight reservation system
-
-All tests are written using different locator strategies, including **CSS selectors** and **XPath**.
-
+- 
 ---
 
 ## Technologies Used
@@ -96,8 +91,3 @@ KuanyshAitzhanov_Assignment3.Tests
    ```bash
    dotnet test
    ```
-
-### Notes
-- ChromeDriver is automatically managed via **WebDriverManager**
-- Browser window opens in maximized mode
-- Tests use explicit waits for better stability
