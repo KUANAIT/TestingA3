@@ -25,7 +25,7 @@ public class FlightBookingTests : BaseUiTest
         WaitClickable(By.CssSelector("table tbody tr:nth-child(1) input[type='submit']")).Click();
 
         WaitVisible(By.Id("inputName")).SendKeys("Куаныш Айтжанов");
-        WaitVisible(By.Id("address")).SendKeys("Толе Би");
+        WaitVisible(By.Id("address")).SendKeys("Кабанбай Батыр");
         WaitVisible(By.Id("city")).SendKeys("Астана");
         WaitVisible(By.Id("state")).SendKeys("Казахстан");
         WaitVisible(By.Id("zipCode")).SendKeys("010000");
